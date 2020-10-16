@@ -1,2 +1,2 @@
-# hxh-s-tc
-这是hxh的图床
+# hxh-tc
+This is Sleipnir 's figure bed.
